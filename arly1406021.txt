@@ -1,1 +1,37 @@
 nama:arly puja nugraha	
+catatan 
+   Business to Business (B2B)
+Jenis e-commerce Business to Business atau B2B adalah bisnis yang dilakukan oleh orang atau pihak yang saling memiliki kepentingan bisnis, atau bisa juga disebut bisnis antar perusahaan.
+Biasanya bisnis B2B dilakukan menggunakan EDI (Electronic Data Interchange) dan email yang berguna untuk pembelian barang dan jasa, informasi dan konsultasi, atau pengiriman dan permintaan proposal bisnis.
+EDI (Electronic Data Interchange) adalah proses transfer data yang terstruktur, dalam format standar yang disetujui, dari satu sistem komputer ke sistem komputer lainnya, dalam bentuk elektronik.
+Contoh website E-commerce B2B adalah :
+-          PT Krakatau Steel (www.krakatausteel.com)
+PT Krakatau Steel adalah perusahaan baja terbesar di Indonesia, untuk melakukan pemesanan baja di Krakatau Steel setiap perusahaan harus mendaftarkan perusahaannya. Setelah terdaftar Perusahaan  Mitra dapat memesan baja di Krakatau Steel dengan menggunakan EDI.
+-          Unilever (www.unilever.co.id/id/)
+Unilever adalah perusahaan penghasil produk Home and Personal Care serta Foods & Ice Cream di Indonesia. Unilever adalah salah satu customers dari PT. Electronic Data Interchange Indonesia.
+
+2.    Business to Consumers (B2C)
+Business to Consumers (B2C) adalah jenis bisnis yang dilakukan antara pelaku bisnis dengan konsumen, seperti antara produsen yang menjual dan menawarkan produknya ke konsumen umum secara online. Disini pihak produsen akan melakukan bisnis dengan menjual dan memasarkan produknya ke konsumen tanpa adanya feedback dari konsumen untuk melakukan bisnis kembali kepada pihak produsen, yang artinya produsen hanya menjual atau memasarkan produk ataupun jasanya dan pihak konsumen hanya sebagai pemakai atau pembeli.
+Contoh dari Website E-Commerse B2C adalah :
+-          Giestore Aksesoris (Giestore.com)
+Giestore adalah sebuah toko online yang menjual berbagai jenis aksesoris, giestore.com termasuk kedalam jenis website E-Commerse B2C karena Giestore adalah sebuah perusahaan yang menjual barang – barangnya kepada konsumen secara langsung.
+-          Asus Store (store.asus.com)
+Asus Store adalah sebuah website E-Commerse yang baru didirikan oleh Asus yang menjual smartphone buatan asus langsung kepada konsumen. Oleh karena itu asus store juga termasuk kedalam Website E-Commerse B2C.
+
+3.    Consumers to Consumers (C2C)
+Consumers to Consumers dilakukan antara konsumen dengan konsumen, yaitu perorangan yang menjual barang atau jasanya melalui situs market place atau situs jual beli.
+Contoh Dari Website C2C adalah :
+-          Carmudi (carmudi.co.id)
+Carmudi.co.id adalah situs jual beli kendaraan yang memberikan penawaran terbaik dalam pasar mobil di Indonesia. Di carmudi.co.id  pengunjung situs dapat mengiklankan mobil yang akan dijual ataupun jika ingin membeli mobil, pengunjung situs dapat mencari mobil mobil yang ditawarkan oleh pengunjung lain di carmudi.co.id
+-          Puali.com
+Sama halnya dengan carmudi.co.id, puali.com adalah sebuah situs jual beli. namun di puali.com pengunjung situs bisa mengiklankan lebih banyak  jenis barang tidak seperti di carmudi.co.id yang hanya dikhususkan untuk jual beli kendaraan.
+
+
+4.    Consumer to Bisnis (C2B)
+C2B (Consumer to Business) merupakan kebalikan dari Business to Consumer (B2C), dimana konsumen akhir bertindak sebagai penjual sedangkan perusahaan bertindak sebagai pembeli dan aktivitas ini dilakukan secara elektronis yang tentunya dengan menggunakan jaringan internet.
+Contoh C2B  Yaitu :
+-          Google Play (http://play.google.com/)
+Google Play adalah layanan konten digital milik Google yang melingkupi toko untuk produk-produk seperti musik/lagu, buku, aplikasi, permainan. Para pengembang dapat mengupload produk – produk nya di google play. Produk yang telah di upload ke google play kemudian akan ditawarkan oleh google ke pengguna. Dengan kerjasama ini berarti pengembang bertindak sebagai consumer dan google sebagai business yang menampung produk- produk dari para pengembang.
+-          MBT (www.mybloggerthemes.com)
+
+MBT (My Blogger Themes) adalah sebuah situs yang menjual template – template blog dari berbagai pengembang template. Pembuat template dapat mengupload template yang dibuatnya pada link yang telah disediakan oleh MBT, kemudian MBT akan Menjual Template Yang telah di upload dan berbagi keuntungan dengan pembuat template.
